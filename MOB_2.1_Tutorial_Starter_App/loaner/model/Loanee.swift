@@ -43,4 +43,5 @@ class Loanee: NSObject, NSCoding {
         contactNumber = aDecoder.decodeObject(forKey: "contactNumber") as? String
         super.init()
     }
+    
 }
