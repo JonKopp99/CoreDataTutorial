@@ -6,10 +6,6 @@
 //  Copyright © 2019 LinnierGames. All rights reserved.
 //
 //
-
-import Foundation
-import CoreData
-
 import Foundation
 import UIKit.UIImage
 import CoreData
